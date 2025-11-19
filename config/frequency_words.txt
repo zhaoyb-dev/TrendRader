@@ -1,44 +1,17 @@
-AI
-
-新加坡
-Singapore
-
-半导体
-MEMS
-
-脑磁
-昆迈医疗
-
-DeepSeek
-
-字节
-bytedance
-
-微软
-Microsoft
-
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
 ai
 !gai
 人工智能
 
-机器人
+半导体
+MEMS
+
+新加坡
+Singapore
+
+晋城
+
+脑磁
+昆迈医疗
 
 国产
 中国
@@ -47,11 +20,8 @@ ai
 
 软件技术
 
-猫咪
-
 四川
 
-重庆
 
 python
 
